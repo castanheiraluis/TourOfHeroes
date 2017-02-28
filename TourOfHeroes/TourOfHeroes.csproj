@@ -267,7 +267,9 @@
     <TypeScriptCompile Include="Angular\src\app\app.component.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.module.ts" />
     <TypeScriptCompile Include="Angular\src\app\hero-detail.component.ts" />
+    <TypeScriptCompile Include="Angular\src\app\hero.service.ts" />
     <TypeScriptCompile Include="Angular\src\app\hero.ts" />
+    <TypeScriptCompile Include="Angular\src\app\mock-heroes.ts" />
     <TypeScriptCompile Include="Angular\src\main.ts" />
   </ItemGroup>
   <ItemGroup>
