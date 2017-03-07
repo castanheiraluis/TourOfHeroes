@@ -198,6 +198,8 @@
     <Content Include="Angular\karma-test-shim.js" />
     <Content Include="Angular\karma.conf.js" />
     <Content Include="Angular\protractor.config.js" />
+    <Content Include="Angular\src\app\dashboard.component.html" />
+    <Content Include="Angular\src\app\hero-detail.component.html" />
     <Content Include="Angular\src\favicon.ico" />
     <Content Include="Angular\src\index.html" />
     <Content Include="Angular\src\styles.css" />
@@ -239,6 +241,7 @@
     <Content Include="Angular\package.json" />
     <Content Include="Angular\src\tsconfig.json" />
     <Content Include="Angular\tslint.json" />
+    <Content Include="package.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -265,6 +268,8 @@
     <TypeScriptCompile Include="Angular\e2e\app.e2e-spec.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.component.spec.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.component.ts" />
+    <TypeScriptCompile Include="Angular\src\app\dashboard.component.ts" />
+    <TypeScriptCompile Include="Angular\src\app\heroes.component.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.module.ts" />
     <TypeScriptCompile Include="Angular\src\app\hero-detail.component.ts" />
     <TypeScriptCompile Include="Angular\src\app\hero.service.ts" />
