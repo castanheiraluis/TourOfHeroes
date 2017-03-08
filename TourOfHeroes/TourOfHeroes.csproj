@@ -198,8 +198,13 @@
     <Content Include="Angular\karma-test-shim.js" />
     <Content Include="Angular\karma.conf.js" />
     <Content Include="Angular\protractor.config.js" />
+    <Content Include="Angular\src\app\app.component.css" />
+    <Content Include="Angular\src\app\dashboard.component.css" />
     <Content Include="Angular\src\app\dashboard.component.html" />
+    <Content Include="Angular\src\app\hero-detail.component.css" />
     <Content Include="Angular\src\app\hero-detail.component.html" />
+    <Content Include="Angular\src\app\heroes.component.css" />
+    <Content Include="Angular\src\app\heroes.component.html" />
     <Content Include="Angular\src\favicon.ico" />
     <Content Include="Angular\src\index.html" />
     <Content Include="Angular\src\styles.css" />
@@ -266,6 +271,7 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Angular\e2e\app.e2e-spec.ts" />
+    <TypeScriptCompile Include="Angular\src\app\app-routing.module.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.component.spec.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.component.ts" />
     <TypeScriptCompile Include="Angular\src\app\dashboard.component.ts" />
