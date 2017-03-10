@@ -203,6 +203,8 @@
     <Content Include="Angular\src\app\dashboard.component.html" />
     <Content Include="Angular\src\app\hero-detail.component.css" />
     <Content Include="Angular\src\app\hero-detail.component.html" />
+    <Content Include="Angular\src\app\hero-search.component.css" />
+    <Content Include="Angular\src\app\hero-search.component.html" />
     <Content Include="Angular\src\app\heroes.component.css" />
     <Content Include="Angular\src\app\heroes.component.html" />
     <Content Include="Angular\src\favicon.ico" />
@@ -275,6 +277,8 @@
     <TypeScriptCompile Include="Angular\src\app\app.component.spec.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.component.ts" />
     <TypeScriptCompile Include="Angular\src\app\dashboard.component.ts" />
+    <TypeScriptCompile Include="Angular\src\app\hero-search.component.ts" />
+    <TypeScriptCompile Include="Angular\src\app\hero-search.service.ts" />
     <TypeScriptCompile Include="Angular\src\app\heroes.component.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.module.ts" />
     <TypeScriptCompile Include="Angular\src\app\hero-detail.component.ts" />
